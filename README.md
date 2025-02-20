@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charishmaseera
-- 👀 I’m interested in ...Datascience
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...Exploring new things!!
+- 🌱 I’m currently learning ...Smartsheet
 - 📫 How to reach me ...seeracharishma@gmail.com
 
 <!---
